@@ -75,3 +75,7 @@ To change this setting to list all individual emails:
 3. Go to **Mail** -> **Layout**.
 4. Under **Message organization**, select **Show email as individual messages** (instead of *Show email grouped by conversation*).
 5. Run the scrape script again.
+
+## License
+
+MIT — see [LICENSE](LICENSE), and read [NOTICE.md](NOTICE.md).
