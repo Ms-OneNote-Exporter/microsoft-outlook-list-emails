@@ -4,7 +4,7 @@
   "description": "List Microsoft Outlook emails via Playwright",
   "main": "src/index.js",
   "bin": {
-    "outlook-list": "./src/index.js"
+    "outlook-list": "src/index.js"
   },
   "scripts": {
     "start": "node src/index.js",
